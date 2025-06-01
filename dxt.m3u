@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1,UNIMAS 🇺🇸
+http://172.93.102.112:8989/158753_.m3u8
+
+#EXTINF:-1,UNIVISION 🇺🇸
+http://172.93.102.112:8989/158765_.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.228.234.173:9999/play/a03z/index.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.228.234.173:9999/play/a00l/index.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.68.35.218:4001/play/a00n/index.m3u8
+
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://200.59.188.3:8000/play/a03y
+
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://190.60.38.45:8000/play/a0hz/index.m3u8
+
+#EXTINF:-1, TUDN 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
+#EXTINF:-1, TUDN 🇲🇽
+http://45.228.234.173:9999/play/a069/index.m3u8
+
+#EXTINF:-1, F1 🇪🇸
+https://bigboss.bemtv.cn/STREAM/23021/chunks.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
@@ -42,8 +72,20 @@ https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=mSyGELLpov4FaJBezulJyw&e=1747692384
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1, DL 🇪🇸
+http://thebestiptv.gsuscam.net:2018/play/Q7DAAX3IvEDpDBkhYZkqWm1vSawWn-orUONbcXkP-zA/ts
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://stream.veo.buzz:6072/sport/ch1/ch1_1080.m3u8
@@ -75,6 +117,15 @@ http://nl.iptvsolution.info:80/arena2hr/mpegts?username=milinkovic.mara&token=d9
 #EXTINF:-1,BEIN 1 🇬🇧
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1,BEIN 1 🇬🇧
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+
+#EXTINF:-1,BEIN 2 🇬🇧
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+
+#EXTINF:-1,TNT SPORT 1 🇬🇧
+https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
+
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.111.16.106:40000/play/a09r
 
@@ -90,8 +141,53 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=hY6lFWVqs01l25PnZ8Oe5g&e=1746694034
+
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://het120a.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1, Bein Sports 2 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8?t=dSkWDwmedPFMXpeUPlbssA&e=1746690538
+
+#EXTINF:-1, Bein Sports 2 HD 🇶🇦
+http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
+
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://het105a.4rouwanda-shop.store/live/645587700/index.m3u8?t=TFp8X6N2osKzUDGdNu8i8g&e=1746696608
+
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, Bein Sports 4 HD 🇶🇦
+http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
+
+#EXTINF:-1, Bein Sports 4 HD 🇶🇦
+http://het113a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=9-KEqe-vrK0X2FiG6npPsw&e=1746696675
+
+#EXTINF:-1, Bein Sports 4 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8?t=ICJRHG8jemY-kAK85CdiIA&e=1733966762
+
 #EXTINF:-1, Bien sport 4 🇶🇦
 http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
+
+#EXTINF:-1, Bein Sports 5 HD 🇶🇦
+http://het116a.4rouwanda-shop.store/live/610303030/index.m3u8?t=nRmQGBbF7BPTMcslPC8-tg&e=1746696995
+
+#EXTINF:-1, Bein Sports 5 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1, Bein Sports 6 HD 🇶🇦
+http://het120a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=D-6Qfcx-joQNm2IilZzBXg&e=1746695319
+
+#EXTINF:-1, Bein Sports 6 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZQqu_A&e=1748513199
+
+#EXTINF:-1, Bein Sports 7 HD 🇶🇦
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -195,6 +291,15 @@ http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 #EXTINF:-1, DAZN 1 🇩🇪
 https://32tech0steam0dp01.org/live/DE_DAZN1/chunks.m3u8
 
+#EXTINF:-1, DAZN 2 🇩🇪
+https://esx1new.newkso.ru/esx1/primadazn2pt/mono.m3u8
+
+#EXTINF:-1, DAZN 3 🇩🇪
+https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
+
+#EXTINF:-1, DAZN 4 🇩🇪
+https://esx1new.newkso.ru/esx1/primadazn4pt/mono.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇨🇴
 http://190.60.56.41:8000/play/a00z/index.m3u8
 
@@ -266,6 +371,9 @@ http://190.11.130.46/mnp/fox_sport_hls/playlist.m3u8
 
 #EXTINF:-1,FOX SPORT 2 🇦🇷
 http://190.11.130.46/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1,FOX SPORT 2 🇦🇷
+http://172.93.102.112:8989/128041_.m3u8
 
 #EXTINF:-1,FOX SPORT 3 🇦🇷
 http://190.11.130.46/mnp/fox_sport3_hls/playlist.m3u8
@@ -399,6 +507,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
+#EXTINF:-1, IRIB TV3 🇸🇦
+https://cdn.telewebion.com/tv3/live/720p/index.m3u8
+
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
@@ -493,4 +604,3 @@ http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
-
